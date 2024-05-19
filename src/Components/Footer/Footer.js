@@ -30,7 +30,7 @@ function Footer() {
             </div>
 
             <div className="footer_hrt">
-                <h3>Made with <span role="img" aria-label="necro">❤️</span> by <a href='https://github.com/nausheenk20' target="_blank" rel="noopener noreferrer">Inkwell Creators</a></h3>
+                <h3>Made with <span role="img" aria-label="necro">❤️</span> by <a href='https://github.com/nausheenk20/Inkwell.git' target="_blank" rel="noopener noreferrer">Inkwell Creators</a></h3>
             </div>
             
 
